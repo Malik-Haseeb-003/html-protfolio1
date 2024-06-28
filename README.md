@@ -1,9 +1,8 @@
-# html-protfolio1
-<!Doc type html>
+
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <tittle>haseeb resume protfolio</tittle>
+        <tittle>Haseeb Resume Protfolio</tittle>
     </head>
  <body>
   <h1>RESUME</h1><a href="https://ibb.co/C2pkY3B"><img src="https://i.ibb.co/C2pkY3B/Screenshot-2024-06-28-171509.png" alt="haseeb picture" border="0"></a>
