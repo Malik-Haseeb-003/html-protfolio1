@@ -8,7 +8,7 @@
   <h1>RESUME</h1><a href="https://ibb.co/C2pkY3B"><img src="https://i.ibb.co/C2pkY3B/Screenshot-2024-06-28-171509.png" alt="haseeb picture" border="0"></a>
   <h2>Muhammad Haseeb</h2>
   <p1>House No. 107, Liaqat Colony, PAF Road, Sargodha.<br/>
-  Phone: 03137951997<br/>Email: malik.haseeb.ijaz003@gmail.com</p1>
+  Phone: 03137051997<br/>Email: malik.haseeb.ijaz003@gmail.com</p1>
   <hr/>
   <h2>Objective</h2>
   <p2>Aspiring Mechanical Engineer with a solid academic background and 5 months of customer service
